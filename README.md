@@ -5,7 +5,7 @@
 </p>
 
 # Simon Kildare
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Lead Data Scientist* </sub>
 
 Professional with a career developed in administrative, commercial and operational areas, also with knowledge of financial routines. Communicative profile, with great appreciation for activities involving negotiations. I have a degree in Business Administration.
  
