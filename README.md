@@ -21,10 +21,9 @@ I have some certifications such as: Financial CPA 20 - Anbima; Scouting in Footb
 
 
 
-## Projetos:
-
-
-* **Data Science: Análise dos Dados do Airbnb - Los Angeles** 
+## Projetos Data Science: 
+ 
+* **Análise dos Dados do Airbnb - Los Angeles**: https://bit.ly/3q4IRrW
 
 
 ---
