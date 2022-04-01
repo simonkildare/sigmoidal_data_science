@@ -25,6 +25,6 @@ I have some certifications such as: Financial CPA 20 - Anbima; Scouting in Footb
  
 * **Análise dos Dados do Airbnb - Los Angeles**: https://bit.ly/3q4IRrW
 
-
+* **Análise dos Dados do Panorama da Covid-19 no Brasil e no Mundo**: https://bit.ly/3JXXbKP
 ---
 
