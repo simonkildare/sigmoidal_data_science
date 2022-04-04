@@ -1,4 +1,4 @@
-
+[![author](https://img.shields.io/badge/author-simonkildare-red.svg)](https://www.linkedin.com/in/simon-kildare-182920182/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/simonkildare/portfolio/)
 
 <p align="center">
   <img src="./banner ds.png" >
@@ -8,16 +8,16 @@
 # Simon Kildare
 <sub>*Lead Data Scientist* </sub>
 
-Professional with a career developed in administrative, commercial and operational areas, also with knowledge of financial routines. Communicative profile, with great appreciation for activities involving negotiations. I have a degree in Business Administration.
+Profissional com carreira desenvolvida nas áreas administrativa, comercial e operacional, também com conhecimento de rotinas financeiras. Perfil comunicativo, com grande apreço por atividades que envolvam negociações. Sou formado em Administração de Empresas.
  
-Starting a career in Information Technology, in the Data Science area.
+Iniciando carreira em Tecnologia da Informação, na área de Data Science.
 
-I have some certifications such as: Financial CPA 20 - Anbima; Scouting in Football - Quest PT.
+Possuo algumas certificações como: Financial CPA 20 - Anbima; Scout no Futebol - Quest PT.
 
 **Background in:** Python.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/simon-kildare-ara%C3%BAjo-da-silva-182920182/)
+* [LinkedIn](https://www.linkedin.com/in/simon-kildare-182920182/)
 
 
 
