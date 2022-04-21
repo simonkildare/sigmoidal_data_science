@@ -6,7 +6,7 @@
 
 
 # Simon Kildare
-<sub>*Lead Data Scientist* </sub>
+<sub>*Data Scientist* </sub>
 
 Profissional com carreira desenvolvida nas áreas administrativa, comercial e operacional, também com conhecimento de rotinas financeiras. Perfil comunicativo, com grande apreço por atividades que envolvam negociações. Sou formado em Administração de Empresas.
  
