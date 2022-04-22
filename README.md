@@ -14,7 +14,7 @@ Iniciando carreira em Tecnologia da Informação, na área de Data Science.
 
 Possuo algumas certificações como: Financial CPA 20 - Anbima; Scout no Futebol - Quest PT.
 
-**Background in:** Python.
+**Conhecimento:** Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/simon-kildare-182920182/)
@@ -26,5 +26,7 @@ Possuo algumas certificações como: Financial CPA 20 - Anbima; Scout no Futebol
 * **Análise dos Dados do Airbnb - Los Angeles**: https://bit.ly/3q4IRrW
 
 * **Análise dos Dados do Panorama da Covid-19 no Brasil e no Mundo**: https://bit.ly/3JXXbKP
+
+* **Detecção de Fraudes em Cartões de Crédito**: https://bit.ly/37CgxXR
 ---
 
